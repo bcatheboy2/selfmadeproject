@@ -1,0 +1,24 @@
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\bin\Debug\collage management.exe
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\bin\Debug\collage management.pdb
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\bin\Debug\collage management.xml
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\obj\x86\Debug\collage_management.Form1.resources
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\obj\x86\Debug\collage_management.Resources.resources
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\obj\x86\Debug\collage management.exe
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\obj\x86\Debug\collage management.xml
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\obj\x86\Debug\collage management.pdb
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\obj\x86\Debug\collage_management.Form2.resources
+C:\Users\student\documents\visual studio 2010\Projects\collage management\collage management\obj\x86\Debug\collage_management.Form3.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\collage management\collage management\obj\x86\Debug\collage_management.Form4.resources
+C:\Users\student\Documents\Visual Studio 2010\Projects\collage management\collage management\obj\x86\Debug\collage_management.Form5.resources
+H:\collage management\collage management\obj\x86\Debug\collage management.exe
+H:\collage management\collage management\obj\x86\Debug\collage management.xml
+H:\collage management\collage management\obj\x86\Debug\collage management.pdb
+H:\collage management\collage management\obj\x86\Debug\collage_management.Form1.resources
+H:\collage management\collage management\obj\x86\Debug\collage_management.Form5.resources
+H:\collage management\collage management\obj\x86\Debug\collage_management.Form3.resources
+H:\collage management\collage management\obj\x86\Debug\collage_management.Form4.resources
+H:\collage management\collage management\obj\x86\Debug\collage_management.Resources.resources
+H:\collage management\collage management\obj\x86\Debug\collage management.vbproj.GenerateResource.Cache
